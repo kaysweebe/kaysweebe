@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning flutter, react, node.js, graphql, aws, gcp and much more
 
 This is a brand new repo with brand new projects. Some things I've worked on in here are:
+- Pixel Playground: An online space for couch-play games. Currently implementing. See Tic-Tac-Toe repo for an example game.
 - Hacker Rank Questions: Each section contains a problem statement, my solution, and some tests.
 - SpaceX: Chakra UI frontend with theme, Apollo client points to a public GraphQL API to get rocket data.
 - Set up Docker, React, Typescript: Simple code to get started with a Dockerfile and a typescript React App.
@@ -17,7 +18,6 @@ https://github.com/kay-at-takeflight
 - Ask to see the demo if you're interested.
 
 https://github.com/kathrine-swe
-- Dead Repo
 - Not well kept but has older school stuff, ELSA, and some TakeFlight stuff that I might like to look at later in life.
 - You won't see any private contributions and I cannot change this setting.
 

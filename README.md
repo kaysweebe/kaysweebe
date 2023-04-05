@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @kaysweebe
-- 👀 I’m interested in developing my skillset, traveling the world, and making a difference in my community
-- 🌱 I’m currently learning flutter, react, node.js, graphql, aws, gcp and much more
-- 💕 My favorite 'work' book has been The End of Average
+- 👋 Hi, I’m @kaysweebe 💕
+- 👀 I’m interested in developing my skillset 💪, traveling the world 🌎, and making a difference in my community
+- 🌱 I’m currently learning (but not limited to):
+  - Languages: Typescript, Dart, Python
+  - Frameworks: React, Flutter, GraphQL
+  - Databases: PostgreSQL, NoSQL
+  - Platforms: Kafka, Docker
+  - Clouds: AWS (Certified Cloud Practitioner), GCP
+  - Concepts: System Design
+- 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaysweebe&show_icons=true&locale=en&layout=compact" alt="kaysweebe" /></p>
 

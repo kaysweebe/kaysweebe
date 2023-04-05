@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning flutter, react, node.js, graphql, aws, gcp and much more
 - 💕 My favorite 'work' book has been The End of Average
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaysweebe&show_icons=true&locale=en&layout=compact" alt="kaysweebe" /></p>
+
 This is a brand new repo with brand new projects. Some things I've worked on in here are:
 - Pixel Playground: An online space for couch-play games. Currently has tic-tac-toe and connect 4. I add games to play with my son. If you have a couch-play game request I would be willing to add it!
 - Hacker Rank Questions: Each section contains a problem statement, my solution, and some tests.
@@ -10,8 +12,6 @@ This is a brand new repo with brand new projects. Some things I've worked on in 
 - Set up Docker, React, Typescript: Simple code to get started with a Dockerfile and a typescript React App.
 - Docker PostgreSQL: How-To to quickly get started with a PostgreSQL database in Docker.
 - Bookshelf: I want to use this as my creative UI space. There isn't much to this right now. 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaysweebe&show_icons=true&locale=en&layout=compact" alt="kaysweebe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaysweebe&show_icons=true&locale=en" alt="kaysweebe" /></p>
 

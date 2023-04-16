@@ -13,6 +13,7 @@
 
 This is a brand new repo with brand new projects. Some things I've worked on in here are:
 - Pixel Playground: An online space for couch-play games. Currently has tic-tac-toe and connect 4. I add games to play with my son. If you have a couch-play game request I would be willing to add it!
+- Babel: A wordle-like CLI game using Python
 - Hacker Rank Questions: Each section contains a problem statement, my solution, and some tests.
 - SpaceX: Chakra UI frontend with theme, Apollo client points to a public GraphQL API to get rocket data.
 - Set up Docker, React, Typescript: Simple code to get started with a Dockerfile and a typescript React App.

@@ -1,18 +1,19 @@
 - 👋 Hi, I’m @kaysweebe 💕
 - 👀 I’m interested in developing my skillset 💪, traveling the world 🌎, and making a difference in my community
 - 🌱 I’m currently learning (but not limited to):
-  - Languages: Typescript, Dart, Python
-  - Frameworks: React, Flutter, GraphQL
-  - Databases: PostgreSQL, NoSQL
+  - Languages: Typescript, Python, Dart
+  - Frameworks: React, Django, Flutter, Apollo GraphQL
+  - Databases: SQL, PostgreSQL, Firebase
   - Platforms: Kafka, Docker
   - Clouds: AWS (Certified Cloud Practitioner), GCP
-  - Concepts: System Design
+  - CICD: Gitlab, Github
+  - Concepts: System Design, UI, Domain-driven design, Behavior-driven design
 - 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaysweebe&show_icons=true&locale=en&layout=compact" alt="kaysweebe" /></p>
 
 This is a brand new repo with brand new projects. Some things I've worked on in here are:
-- Pixel Playground: An online space for couch-play games. Currently has tic-tac-toe and connect 4. I add games to play with my son. If you have a couch-play game request I would be willing to add it!
+- Pixel Playground: An online space for couch-play games. I add games to play with my son. If you have a couch-play game request I would be willing to add it!
 - Babel: A wordle-like CLI game using Python
 - Hacker Rank Questions: Each section contains a problem statement, my solution, and some tests.
 - SpaceX: Chakra UI frontend with theme, Apollo client points to a public GraphQL API to get rocket data.
